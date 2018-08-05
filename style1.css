@@ -45,15 +45,15 @@ aside {
 
 section {  
     float: left;  
-    width: 495px; /*Required by Specs*/
+    width: 55%;
     height: 100%;
 }
 
 aside {
     float: left;
     position: relative;
-    left: 15px;
-    width: 450px; /*Left + Width = 465px + 495px in specs = 960 total width in specs*/    
+    left: 2%;
+    width: 43%; /*Left + Width = 50%-*/
     height: 100%;    
 }
 
